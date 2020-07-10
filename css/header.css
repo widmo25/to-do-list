@@ -1,8 +1,8 @@
 .header {
-    padding: 20px;
     margin-top: 25px
 }
 
 .header__header {
     font-size: 32px;
+    padding:0;
 }
