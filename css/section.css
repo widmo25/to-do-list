@@ -3,3 +3,19 @@
     margin-bottom:3px;
     padding:20px;
 }
+
+.section__input{
+    width:100%;
+    max-width:800px;
+    padding:10px;
+    color:#ccc;
+}
+
+.section__button
+{
+    margin-left:25px;
+    background-color:teal;
+    padding:12px;
+    color:white;
+    border:none;
+}
