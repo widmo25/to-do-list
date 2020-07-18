@@ -1,0 +1,27 @@
+
+.form__input{
+    width:100%;
+    max-width:800px;
+    padding:10px;
+    color:#ccc;
+}
+
+
+.form__button
+{
+    margin-left:25px;
+    background-color:teal;
+    padding:12px;
+    color:white;
+    border:none;
+}
+
+.form__buttonSecret{
+    width:100%;
+    max-width:35px;
+    border:none;
+    padding:0;
+}
+.form__buttonSecret--done{
+    background-color:#09d123;
+}
