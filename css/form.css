@@ -1,17 +1,45 @@
+.form{
+   max-width:900px;
+   display: flex;
+   margin:auto;
+}
+
 
 .form__input{
     width:100%;
-    max-width:800px;
+    margin:auto;
     padding:10px;
     color: #000;
+    margin-right:20px;
 }
 
 
 .form__button
 {
-    margin-left:25px;
+    width:100%;
+    max-width: 150px;
     background-color:teal;
-    padding:12px;
     color:white;
     border:none;
+}
+
+.form__button:hover{
+    outline:1px solid black;
+}
+
+@media(max-width:767px)
+{
+    .form{
+        flex-direction: column;
+        width: 100%;
+    }
+    
+    .form__input{
+        width:100%;
+    }
+    .form__button{
+        width: 100%;
+        max-width: 767px;
+        margin-top: 10px;
+    }
 }
