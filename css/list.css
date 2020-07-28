@@ -11,7 +11,7 @@
     align-items: center;
 }
 
-@media(max-width:946px) {
+@media(max-width:972px) {
     .list__item {
         width: 100%;
         max-width: 946px;
@@ -31,19 +31,20 @@
 @media (max-width:946px) {
     .list__task {
         max-width: 300px;
+        margin:auto;
     }
 }
 
 @media (max-width:338px) {
     .list__task {
-        max-width: 200px;
+        max-width: 150px;
+        margin:auto;
     }
 }
 
 .list__itemButton {
     flex-basis: 50px;
     height: 50px;
-    ;
     padding: 0;
     border: none;
     color: white;
@@ -59,8 +60,9 @@
 
 @media (max-width:338px) {
     .list__itemButton {
-        width: 100%;
-        max-width: 50px;
+        width:100%;
+        min-width: 25px;
+        padding:0;
     }
 }
 
