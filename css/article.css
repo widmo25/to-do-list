@@ -3,6 +3,14 @@
     background-color:#fff;
 }
 
+@media (max-width:338px){
+    .article{
+        margin:20px auto;
+        max-width:290px;
+        padding:10px;
+    }
+}
+
 .article__header{
     padding:20px;
     font-size:24px;
