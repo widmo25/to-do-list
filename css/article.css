@@ -11,6 +11,13 @@
     }
 }
 
+@media (max-width:972px){
+    .article{
+        max-width: 90%;
+        margin:auto;
+    }
+}
+
 .article__header{
     padding:20px;
     font-size:24px;
