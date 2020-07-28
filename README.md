@@ -18,9 +18,9 @@ https://widmo25.github.io/to-do-list/
 
 
 ## Screenshoot
-!(img/main.png)
+![startup screen](img/main.png)
 
-!(img/added-task.png)
+![added task](img/added-task.png)
 
-!(img/task-done.png)
+![task done](img/task-done.png)
 
