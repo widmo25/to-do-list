@@ -5,3 +5,17 @@
     padding:20px;
 }
 
+@media (max-width:338px){
+    .section{
+        max-width: 290px;
+        margin:auto;
+        padding:10px;
+    }
+}
+
+@media (max-width:946px){
+    .section{
+        max-width: 90%;
+        margin:auto;
+    }
+}
