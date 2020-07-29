@@ -18,6 +18,13 @@
         margin:auto;
     }
 }
+@media (max-width:338px){
+    .list__item{
+        width:100%;
+        max-width: 338px;
+        padding:0;
+    }
+}
 
 .list__task {
     width: 100%;
@@ -28,7 +35,7 @@
     overflow-wrap: break-word;
 }
 
-@media (max-width:946px) {
+@media (max-width:972px) {
     .list__task {
         max-width: 300px;
         margin:auto;
@@ -37,9 +44,8 @@
 
 @media (max-width:338px) {
     .list__task {
-        max-width: 150px;
+        max-width: 130px;
         margin:auto;
-        flex-shrink: 0;
     }
 }
 
@@ -62,7 +68,7 @@
 @media (max-width:338px) {
     .list__itemButton {
         width:100%;
-        min-width: 25px;
+        max-width: 25px;
         padding:0;
         flex-shrink: 0;
     }
