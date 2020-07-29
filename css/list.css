@@ -26,6 +26,7 @@
     text-align: justify;
     font-size: 16px;
     overflow-wrap: break-word;
+    flex-shrink: 0;
 }
 
 @media (max-width:946px) {
@@ -49,6 +50,7 @@
     border: none;
     color: white;
     text-align: center;
+    flex-shrink: 0;
 }
 
 @media (max-width:946px) {
