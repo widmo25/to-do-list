@@ -23,6 +23,7 @@
         width:100%;
         max-width: 338px;
         padding:0;
+        display:flex;
     }
 }
 
@@ -46,6 +47,7 @@
     .list__task {
         max-width: 130px;
         margin:auto;
+        flex-shrink: 1;
     }
 }
 
