@@ -88,7 +88,7 @@
 @media (max-width:575px) {
     .list__itemButton {
         width: 100%;
-        max-width: 15px;
+        max-width: 25px;
         padding: 0;
         flex-shrink: 0;
     }
