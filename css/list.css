@@ -47,7 +47,7 @@
     .list__task {
         max-width: 130px;
         margin:auto;
-        flex-shrink: 1;
+        flex-shrink: 0;
     }
 }
 
