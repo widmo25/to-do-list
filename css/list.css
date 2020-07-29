@@ -63,6 +63,7 @@
 @media (max-width:946px) {
     .list__itemButton {
         width: 100%;
+        padding: 0;
         max-width: 50px;
     }
 }
@@ -70,7 +71,7 @@
 @media (max-width:338px) {
     .list__itemButton {
         width:100%;
-        max-width: 25px;
+        max-width: 15px;
         padding:0;
         flex-shrink: 0;
     }
