@@ -9,12 +9,12 @@
 
 @media (max-width:338px){
     .header{
-        margin:auto;
+        margin:20px;
     }
 }
 
 @media (max-width:972px){
     .header{
-        margin:auto;
+        margin:20px;
     }
 }
