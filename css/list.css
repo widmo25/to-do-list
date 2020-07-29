@@ -43,7 +43,7 @@
     }
 }
 
-@media (max-width:338px) {
+@media (max-width:360px) {
     .list__task {
         max-width: 130px;
         margin:auto;
@@ -68,7 +68,7 @@
     }
 }
 
-@media (max-width:338px) {
+@media (max-width:360px) {
     .list__itemButton {
         width:100%;
         max-width: 15px;

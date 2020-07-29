@@ -7,7 +7,7 @@
     padding:0;
 }
 
-@media (max-width:338px){
+@media (max-width:360px){
     .header{
         margin:20px;
     }
