@@ -89,7 +89,7 @@
     .list__itemButton {
         width: 100%;
         max-width: 25px;
-        padding: 0;
+        padding: 2px;
         flex-shrink: 0;
     }
 }
