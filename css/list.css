@@ -39,6 +39,7 @@
     .list__task {
         max-width: 150px;
         margin:auto;
+        flex-shrink: 0;
     }
 }
 
