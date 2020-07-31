@@ -11,7 +11,7 @@
     align-items: center;
 }
 
-@media(max-width:972px) {
+/*@media(max-width:972px) {
     .list__item {
         width: 100%;
         max-width: 972px;
@@ -33,7 +33,7 @@
         max-width: 338px;
         margin: auto;
     }
-}
+}*/
 
 .list__task {
     width: 100%;
@@ -61,14 +61,15 @@
     }
 }
 
-@media (max-width:420px) {
+@media (max-width:360px) {
     .list__task {
         max-width: 130px;
         margin: auto;
-        flex-shrink: 0;
         padding:0;
     }
 }
+
+
 
 .list__itemButton {
     flex-basis: 50px;
@@ -84,6 +85,7 @@
         width: 100%;
         max-width: 50px;
         padding: 0;
+        flex-shrink: 0;
     }
 }
 
