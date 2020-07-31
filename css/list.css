@@ -92,7 +92,7 @@
 @media (max-width:575px) {
     .list__itemButton {
         width: 100%;
-        max-width: 35px;
+        max-width: 50px;
         padding: 0px;
         flex-shrink: 0;
     }
@@ -101,7 +101,7 @@
 @media (max-width:360px) {
     .list__itemButton {
         width: 100%;
-        max-width: 35px;
+        max-width: 50px;
         padding: 0;
         flex-shrink: 0;
     }
