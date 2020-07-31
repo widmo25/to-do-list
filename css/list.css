@@ -11,30 +11,6 @@
     align-items: center;
 }
 
-/*@media(max-width:972px) {
-    .list__item {
-        width: 100%;
-        max-width: 972px;
-        margin: auto;
-    }
-}
-
-@media (max-width:575px) {
-    .list__item {
-        width: 100%;
-        max-width: 575px;
-        margin: auto;
-    }
-}
-
-@media (max-width:338px) {
-    .list__item {
-        width: 100%;
-        max-width: 338px;
-        margin: auto;
-    }
-}*/
-
 .list__task {
     width: 100%;
     padding: 0 20px;
