@@ -46,7 +46,7 @@
 
 @media (max-width:972px) {
     .list__task {
-        max-width: 300px;
+        max-width: 350px;
         margin: auto;
         padding:0;
     }
@@ -80,7 +80,7 @@
     text-align: center;
 }
 
-@media (max-width:946px) {
+@media (max-width:972px) {
     .list__itemButton {
         width: 100%;
         max-width: 50px;
@@ -101,7 +101,7 @@
 @media (max-width:360px) {
     .list__itemButton {
         width: 100%;
-        max-width: 15px;
+        max-width: 25px;
         padding: 0;
         flex-shrink: 0;
     }
